@@ -6,5 +6,9 @@ But it’s much more than an acronym – it’s potentially your passport for th
 
 As technology and IT disrupts more and more industries, there’s a real concern that there won’t be enough STEM-qualified people to work in the jobs of the future. But how do we get more people interested in and taking up STEM subjects at school?
 
+
+
+
 # Project Description
-This project is a web application meant for year 11 and year 12 students to help them introduce and use STEM based learning.
+
+This project is a web application meant for year 11 and year 12 students to help introduce and help them understand STEM based learning.
